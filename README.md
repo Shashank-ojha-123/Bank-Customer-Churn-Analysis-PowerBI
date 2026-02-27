@@ -4,7 +4,7 @@
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard](Bank-Customer-Churn-Analysis_PowerBi/Dashboard/Bank_customer_churn_report_screenshot.jpeg
+![Dashboard](Bank-Customer-Churn-analysis-By-Shashank-Ojha/Dashboard/Bank_customer_churn_report_screenshot.jpeg
 )
 
 ---
